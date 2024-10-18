@@ -12,7 +12,7 @@ Hi there! 👋 I'm Abdul Ghaffar, a passionate developer and a problem-solving e
 
 🌐 **Frontend Frameworks**: Next.js
 
-⚙️ **Backend Frameworks**: NestJS, Node.js, Django
+⚙️ **Backend Frameworks**: Node.js and Django
 
 🏆 **Competitive Programming**: LeetCode Enthusiast
 
