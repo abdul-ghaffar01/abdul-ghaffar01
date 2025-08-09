@@ -47,7 +47,7 @@
 
 ## 🔥 Highlighted Projects
 
-### 🧠 AI Chatbot Backend
+### 🧠 AI Chatbot Full-Stack Dev
 - Real-time chat with AI agent
 - Intent + response training panel
 - MongoDB + Express + WebSocket
