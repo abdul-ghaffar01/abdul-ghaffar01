@@ -51,7 +51,7 @@
 - Real-time chat with AI agent
 - Intent + response training panel
 - MongoDB + Express + WebSocket
-- Deployed on VPS with Nginx & PM2
+- Deployed on VPS with Nginx & Docker
 
 <p align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="260" />
