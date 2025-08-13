@@ -44,27 +44,73 @@
 ![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square&logo=ubuntu)
 
 ---
-
 ## 🔥 Highlighted Projects
 
-### 🧠 AI Chatbot Full-Stack Dev
-- Real-time chat with AI agent
-- Intent + response training panel
-- MongoDB + Express + WebSocket
-- Deployed on VPS with Nginx & Docker
+### 📝 Modern Blog System with Admin Dashboard
+- A feature-rich blogging platform with categories, featured posts, modern UI, and automated deployments.
+- **Status:** Ongoing
+- **Tech Stack:** Next.js, Node.js, MongoDB, TailwindCSS
+- [Live Demo](https://blogs.iabdulghaffar.com)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="260" />
-</p>
+**Summary:**  
+A modern blog platform built with Next.js and Node.js, featuring category-based browsing, featured blog carousel, and a secure admin dashboard for content management.
 
-### 🛍️ E-commerce Platform
-- Built with Next.js + Node.js + MongoDB
-- Product listings, cart, and payments
-- Modern responsive UI
+**Key Features:**
+- Built responsive UI with TailwindCSS and theme variables for light/dark mode.
+- Developed admin panel for adding, editing, and deleting blogs and categories.
+- Integrated GitHub webhooks for automated deployments.
+- Implemented modern blog details page using unique slugs.
 
-### 🔐 Custom DBMS (Aughr)
-- Academic-level DBMS implementation
-- Focus on query parsing and storage logic
+**Architecture:**
+- Frontend: Next.js + TailwindCSS
+- Backend: Node.js + Express + MongoDB
+- Deployment: Nginx reverse proxy + PM2 + GitHub Webhooks
+
+---
+
+### 🤖 Personal AI Chatbot with Admin Panel
+- Portfolio-integrated AI chatbot with admin panel for managing intents and responses.
+- **Status:** Completed
+- **Tech Stack:** Node.js, MongoDB, WebSockets, React
+- [Live Demo](https://iabdulghaffar.com/chat)
+
+**Summary:**  
+A fully functional AI chatbot built with Node.js and MongoDB for backend training data management and fuzzy matching logic.
+
+**Key Features:**
+- Integrated chatbot into portfolio website.
+- Built admin panel for managing intents, responses, and training data.
+- Planned future integration with OpenAI APIs.
+
+**Architecture:**
+- Frontend: React + WebSockets
+- Backend: Node.js + MongoDB
+- Training: Custom fuzzy matching logic
+
+---
+
+### 🚀 Full-stack Portfolio with Dockerized Microservices & DevOps Automation
+- Containerized microservices portfolio deployed with CI/CD and Docker.
+- **Status:** Completed
+- **Tech Stack:** Docker, Nginx, GitHub Webhooks, Ubuntu, Node.js, Next.js
+- GitHub: Private | Demo: Portfolio Website
+
+**Summary:**  
+This project showcases the end-to-end deployment of my microservices-based portfolio website using a full DevOps pipeline. It includes multiple services (frontend, backend API, and chatbot) containerized with Docker and deployed on an Ubuntu VPS. Automated deployments are handled via GitHub Webhooks to ensure zero downtime.
+
+**Key Features:**
+- Containerized frontend, backend API, and chatbot services.
+- Configured Nginx reverse proxy with SSL using Certbot.
+- Deployed services on Ubuntu VPS using Docker Compose.
+- Automated deployment using GitHub Webhooks and shell scripts.
+- Ensured zero downtime with health checks and rolling restarts.
+
+**Architecture:**
+- Frontend: React / Next.js
+- Backend: Node.js API
+- Reverse Proxy: Nginx with SSL
+- Deployment: Docker + Docker Compose on Ubuntu
+- Automation: GitHub Webhooks + Shell Scripting
 
 ---
 
